@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url":"https://github.com/piyoppi/util-types"
+    "url":"https://github.com/piyoppi/util-types.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
