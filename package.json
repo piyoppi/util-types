@@ -1,0 +1,24 @@
+{
+  "name": "@piyoppi/util-types",
+  "version": "1.0.0",
+  "description": "TypeScript Utility types",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/piyoppi/util-types"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "author": "piyoppi",
+  "license": "MIT"
+}
